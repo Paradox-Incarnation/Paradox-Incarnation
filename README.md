@@ -93,39 +93,3 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </div>
-
-<div align="center">
-  <br>
-  <img src="https://readme-jokes.vercel.app/api?theme=synthwave" alt="Jokes Card" />
-  <br>
-  <i>Even the void has a sense of humor...</i>
-</div>
-
-<!-- Snake Animation Configuration -->
-<!-- 
-name: Temporal Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  create_snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Paradox-Incarnation
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: '00FFE6'
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
