@@ -30,48 +30,32 @@
 ## 🧮 Reality Manipulation Tools
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="65" height="65" />
 </div>
 
 ## 📊 Quantum Metrics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Paradox-Incarnation&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE6&text_color=FFFFFF&icon_color=00FFE6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Paradox-Incarnation&show_icons=true&theme=default&hide_border=true&title_color=00AA95&icon_color=00AA95" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paradox-Incarnation&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE6&text_color=FFFFFF&icon_color=00FFE6" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox-Incarnation&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE6&text_color=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox-Incarnation&layout=compact&theme=default&hide_border=true&title_color=00AA95" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox-Incarnation&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE6&text_color=FFFFFF" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paradox-Incarnation&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE6&text_color=FFFFFF&icon_color=00FFE6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox-Incarnation&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFE6&text_color=FFFFFF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Paradox-Incarnation&theme=dark&hide_border=true&background=0D1117&stroke=00FFE6&ring=00FFE6&fire=00FFE6&currStreakNum=FFFFFF&sideNums=00FFE6&currStreakLabel=00FFE6&sideLabels=00FFE6&dates=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Paradox-Incarnation&theme=default&hide_border=true&stroke=00AA95&ring=00AA95&fire=00AA95&currStreakNum=000000&sideNums=00AA95&currStreakLabel=00AA95&sideLabels=00AA95&dates=000000" />
-    <img width="800" src="https://streak-stats.demolab.com?user=Paradox-Incarnation&theme=dark&hide_border=true&background=0D1117&stroke=00FFE6&ring=00FFE6&fire=00FFE6&currStreakNum=FFFFFF&sideNums=00FFE6&currStreakLabel=00FFE6&sideLabels=00FFE6&dates=FFFFFF" />
-  </picture>
+  <img width="800" src="https://streak-stats.demolab.com?user=Paradox-Incarnation&theme=dark&hide_border=true&background=0D1117&stroke=00FFE6&ring=00FFE6&fire=00FFE6&currStreakNum=FFFFFF&sideNums=00FFE6&currStreakLabel=00FFE6&sideLabels=00FFE6&dates=FFFFFF" />
 </div>
 
 ## 🏆 Paradoxical Achievements
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Paradox-Incarnation&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Paradox-Incarnation&theme=flat&no-frame=true&column=7&margin-w=15" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Paradox-Incarnation&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Paradox-Incarnation&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </div>
 
 ## 🌐 Interdimensional Communication Portals
@@ -93,3 +77,5 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </div>
+
+
