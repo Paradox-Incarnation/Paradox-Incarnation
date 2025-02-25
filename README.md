@@ -1,7 +1,7 @@
 # 🌌 Welcome to The Paradox Dimension
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00FFE6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=140&lines=Enter+the+Realm+of+Paradox;Where+Logic+Defies+Reality;Embrace+the+Unknown..." alt="Paradox Welcome Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00FFE6&center=true&vCenter=true&multiline=true&width=1200&height=200&lines=Enter+the+Realm+of+Paradox;Where+Logic+Defies+Reality;Embrace+the+Unknown...;Beyond+Time+and+Space" alt="Paradox Welcome Message" />
 </div>
 
 <br/>
@@ -30,7 +30,15 @@
 ## 🧮 Reality Manipulation Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,ts,nextjs,tailwind,figma&theme=dark" alt="Skills" />
+  <picture>
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+  </picture>
 </div>
 
 ## 📊 Quantum Metrics
@@ -68,32 +76,6 @@
   </picture>
 </div>
 
-## 🎮 Interactive Anomalies
-
-<details>
-<summary>🎲 Quantum Dice Roll</summary>
-<div align="center">
-  <h3>🎯 Random Number Generator</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=dark&qColor=00FFE6&aColor=FFFFFF&borderColor=none" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=default&qColor=00AA95&aColor=000000&borderColor=none" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?theme=dark&qColor=00FFE6&aColor=FFFFFF&borderColor=none" />
-  </picture>
-  <br><br>
-  <i>Each view generates a new reality...</i>
-</div>
-</details>
-
-<details>
-<summary>🎮 Gameplay Stats</summary>
-<div align="center">
-  <br/>
-  <h3>🎯 Coming Soon...</h3>
-  <i>The paradox is still crafting this reality...</i>
-  <br/><br/>
-</div>
-</details>
-
 ## 🌐 Interdimensional Communication Portals
 
 <div align="center">
@@ -112,12 +94,19 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20dance%20of%20paradox%2C%20truth%20and%20illusion%20become%20one...&author=Paradox%20Incarnation" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=In%20the%20dance%20of%20paradox%2C%20truth%20and%20illusion%20become%20one...&author=Paradox%20Incarnation" />
-    <img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20dance%20of%20paradox%2C%20truth%20and%20illusion%20become%20one...&author=Paradox%20Incarnation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+    <img alt="Random Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   </picture>
   <br>
   <i>Each visit reveals a different truth from across the multiverse...</i>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://readme-jokes.vercel.app/api?theme=synthwave" alt="Jokes Card" />
+  <br>
+  <i>Even the void has a sense of humor...</i>
 </div>
 
 <!-- Snake Animation Configuration -->
